@@ -1,1 +1,4 @@
-http://relay1.asia.com; 15.90, 20.66
+seed.lumi.com.vn,146.190.82.40
+relay2.lumi.com.vn,143.198.77.105
+relay3.lumi.com.vn,202.92.6.56
+relay4.lumi.com.vn,202.92.6.63
