@@ -1,4 +1,1 @@
-seed.lumi.com.vn
-relay2.lumi.com.vn
-relay3.lumi.com.vn
-relay4.lumi.com.vn
+103.72.99.97:30001
