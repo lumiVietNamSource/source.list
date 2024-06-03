@@ -1,6 +1,6 @@
 [
     {
-        "domain": "mobile.relay2.lumi.biz",
+        "domain": "relay2.lumi.biz",
         "port": 8301,
         "ping": 33334
     }
